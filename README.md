@@ -2,4 +2,3 @@
 
 ooh general kenobi
 
-(lightsaber sound)
